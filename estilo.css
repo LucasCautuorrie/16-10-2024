@@ -1,0 +1,46 @@
+body{
+    background-color: #756AB6;
+}
+
+ul{
+    list-style: none;
+    background-color: #AC87C5;
+    width: 300px;
+    padding: 10px;
+}
+.items_nav{
+    display: inline;
+    pad: 10px;
+}
+
+h1{
+    background-image: url(./imagenes/fabio-magalhaes-nmTm7knUnqs-unsplash.jpg);
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+    padding: 80px 20px;
+    height: 500px;
+    text-align: center;
+    font-size: 4em;
+    text-transform: uppercase;
+    text-shadow: 5px 5px white;
+}
+
+.tarjeta{
+    max-width: 300px;
+    margin: 20px auto;
+    border: 2px solid #E0AED0;
+    box-shadow: 5px 5px 10px #FFE5E5;
+}
+.img_tarjetas{
+    width: 100%;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Raleway', 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
